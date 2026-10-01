@@ -59,7 +59,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-**Live deployed version:** _[add your Streamlit Cloud link here]_
+**Live deployed version:** [https://nc-profitability-analysis.streamlit.app](https://nc-profitability-analysis.streamlit.app)
 
 ## 🧪 Methodology
 
